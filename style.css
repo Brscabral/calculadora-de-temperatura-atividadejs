@@ -1,0 +1,29 @@
+.corpo{
+    height: 100vh;
+    width: auto;
+    background:linear-gradient(#1C1C1C, #4F4F4F, #808080);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   font-family: sans-serif;
+}
+#input-celsius{
+    width: 20%;
+    padding: 10px;
+    border-radius: 15px;
+    background-color:bisque;
+    margin: 50px 0 50px;
+}
+#far{
+    font-size: 1.2em;
+    font-weight: bold;
+
+}
+#kel{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h2{
+    margin: 100px 0 0 0;
+}
